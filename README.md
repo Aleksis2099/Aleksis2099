@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aleksis2099
-- 👀 I’m interested in Music, Science in genenral, Artificial Intelligence
+- 👀 I’m interested in Music, Science in genenal, Artificial Intelligence. etc.
 - 🌱 I’m currently learning: Data Science, and also programming with python, before entering University
 - ⚡ Fun fact: "2099" in my username it´s inspired in Spider-Man 2099, my favorite Spiderman in the Spiderverse (Yes, I´m a Spider-Man fan)
 
