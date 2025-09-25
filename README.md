@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aleksis2099
-- 👀 I’m interested in Music, Science in genenal, Artificial Intelligence. etc.
-- 🌱 I’m currently learning: Data Science, and also programming with python, before entering University
+- 👀 I’m interested in Music, Science in general, Artificial Intelligence and Cybersecuriy etc.
+- 🌱 I’m currently learning: Cybersecurity, focussed on Pentesting and Red Team.
 - ⚡ Fun fact: "2099" in my username it´s inspired in Spider-Man 2099, my favorite Spiderman in the Spiderverse (Yes, I´m a Spider-Man fan)
 
 <!---
